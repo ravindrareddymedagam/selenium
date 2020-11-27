@@ -1,3 +1,7 @@
+Tools used Java, Selenium webDriver, Cucumber (bdd practice ) and Maven project  
+Design Pattern used POM,Factory Design pattern 
+Spring boot framework to fetch Data from API
+net.masterthought for reports 
 All the libraries are downloaded from maven repository including selenium and chrome driver
 Step Definition location and the other primary metadata required to run the test are placed in pom.xml inside test phase
 To execute this scenario locally 
