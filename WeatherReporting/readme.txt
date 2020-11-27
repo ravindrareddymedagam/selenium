@@ -15,6 +15,7 @@ Ex my project is localted at E:\Work\JAVA_QA\Workspace\selenium\WeatherReporting
 once run is completed test reports are genarated under target folder 
 target\cucumber-report-html\cucumber-html-reports\overview-features.html
 
-
+Note : This can be easily integrate with CI/CD tool by just passing maven command
+"verify" 
 
 
